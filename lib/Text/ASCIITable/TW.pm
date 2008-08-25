@@ -5,15 +5,15 @@ extends 'Text::ASCIITable';
 
 =head1 NAME
 
-Text::ASCIITable::TW - plugin for TW support
+Text::ASCIITable::TW - add TW support for Text::ASCIITable
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-use version; our $VERSION = qv('0.01');
+use version; our $VERSION = qv('0.02');
 
 
 =head1 SYNOPSIS

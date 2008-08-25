@@ -10,6 +10,7 @@ WriteMakefile
           'PREREQ_PM' => {
                            'Test::More' => 0,
                            'version' => '0.76',
+                           'Text::ASCIITable' => '0.18',
                            'Moose' => '0.55',
                            'Encode' => '2.26'
                          }
