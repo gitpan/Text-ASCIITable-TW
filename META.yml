@@ -1,6 +1,6 @@
 ---
 name: Text-ASCIITable-TW
-version: v0.02
+version: v0.03
 author:
   - 'Alec Chen <alec@cpan.org>'
 abstract: add TW support for Text::ASCIITable
@@ -16,7 +16,7 @@ build_requires:
 provides:
   Text::ASCIITable::TW:
     file: lib/Text/ASCIITable/TW.pm
-    version: v0.02
+    version: v0.03
 generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
