@@ -7,6 +7,7 @@ my $builder = Module::Build->new(
     license             => 'perl',
     dist_author         => 'Alec Chen <alec@cpan.org>',
     dist_version_from   => 'lib/Text/ASCIITable/TW.pm',
+    configure_requires => { 'Module::Build' => 0.38 },
     build_requires => {
         'Test::More'       => 0,
         'Moose'            => 0.55,
